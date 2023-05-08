@@ -52,7 +52,7 @@ class Car{
         console.log(hireduration)
     }
 }
-let carhire=new Rental("subaru","loice mwau",new Date('11/12/2020'),new Date('1/4/2023'))
+let carhire=new Rental("Forester","Faith Omenta",new Date('3/5/2010'),new Date('2/7/2023'))
 console.log(carhire)
 carhire.rentalCarDuration()
 
